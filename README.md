@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @funcmakerDan
-- 👀 I’m interested in ... Swift, Vapor and anything Apple
-- 🌱 I’m currently learning ... Swift & Vapor... and how to code 🚀
-- 💞️ I’m looking to collaborate on ... open source projects once I get a bit under my belt
-- 📫 How to reach me ... twitter: @funcmakerDan (the name will become obvious once I complete my project(s)
+- 👋 Hi, I’m @funcmakerDan. I'm an indie Swift/Vapor developer working in a number of projects
+- 👀 I’m interested in ... Swift, Vapor and anything to do with Apple
+- 🌱 I’m currently learning ... CoreData and SwiftUI  🚀
+- 💞️ I’m looking to collaborate on ... anything Swift or Vapor related
+- 📫 How to reach me ... twitter: @funcmakerDan 
 🚀
 <!---
 funcmakerDan/funcmakerDan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
